@@ -18,8 +18,8 @@ I'm a passionate developer who loves exploring and creating innovative solutions
 - Always up for experimenting with new coding challenges.
 
 ### 📫 Connect With Me
-- **Email**: [YourEmail@example.com](mailto:nanangmaruf49@gmail.com)
-- **InstaGram**: [Your LinkedIn Profile](https://www.instagram.com/nanngm_)
+- **Email**: [nanangmaruf49@gmail.com](mailto:nanangmaruf49@gmail.com)
+- **InstaGram**: [nanngm_](https://www.instagram.com/nanngm_)
 
 Let's collaborate and build something amazing together!
 
